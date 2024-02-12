@@ -10,7 +10,7 @@ Physical Description:
 
 Dexterity 3D+2
   Blasters  +2D  5D+2
-  Dodge     +2D  5D+2
+  Dodge     +2.1D  6D
 
 Perception 3D
 
@@ -23,12 +23,14 @@ Technical 3D
   security +2  5D
 
 Special Abilities
-None
+  Control 1D
+    Accelerate Healing
+
 Move: 10
 Force Sensitive - True
 Force Points: 1
 Dark Side Points:
-Character Points: 15
+Character Points: 0
 
 Equipment:
 
