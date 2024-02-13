@@ -48,7 +48,31 @@ hold-out blaster (3D)
   Range: 3-4/8/12
   Damage: 3D
   Source: Rulebook (Page 229), Arms and Equipment Guide (page 13)
+
+hotshot rifle (5D)
+  model: E-series handmade rifle
+  Type: Blaster rifle
+  Scale: Character
+  Skill: Blaster: Blaster Rifle
+  Ammo: 100
+  Cost: 750 (power packs: 25)
+  Availability: 1, R
+  Range: 3-30/100/300
+  Damage: 5D
+  Game Notes: suffers a -1D to all shots past the first at long range.
+  If the retractable stock and scope are used for one round of aiming, the character receives an additional +1D to blaster.
+
+hotshot rifle power pack
+
+Blast Vest
+  Model: Typical blast vest
+  Type: Personal armor
+  Scale: Character
+  Cost: 300
+  Availability: 1
+  Game Notes: +1D physical, +1D energy (torso).
+
 portable computer (+1D to computer programming repair rolls)
 datapad
 Breathing mask
-corporate credit voucher (1,925 credits).
+corporate credit voucher (850 credits).
