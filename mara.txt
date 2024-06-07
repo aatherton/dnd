@@ -1,0 +1,84 @@
+Mara Corinth, the Rogue
+occupation: soldier
+class: Thief
+alignment: Law
+speed:30
+xp 127
+lvl 3
+
+AC 16
+HP 18
+
+STR 16 +2
+AGI 16 +2
+STA 15 +1
+PER 13 +1
+LUCK (11) 12
+INT 9 +0
+
+LUCK DIE D5
+3 luck regen/day
+
+
+REF 3
+FORT 2
+WILL 2
+
+Melee +2
+DMG +2
+RANGED +2
+DMG +2
+
+
+weapons
++1 short sword 1d6+1
+2 daggers 1d4
+shortbow 1d6
+
+armor
++1 studded leather +4AC -2 check d8 fumble
+
+inventory
+110 GP
+thieves' tools
+flint and steel
+3 oil flasks
+amulet of the adder (prevents from being poisoned) 
+potion of flying
+19 arrows
+jade idols
+bone meal
+
+
+special
+born under the loom: +LUCK to skill checks
+speaks common
+speaks thieve's cant
+
+thief talents
+
+backstab +5
+sneak +5
+hide +7
+pickpocket +5
+climb +7
+lockpick +5
+find trap +7
+disable trap +7
+forge document +1
+disguise +2
+read languages +1
+handle poison +2
+scroll use D12
+
+notes
+
+=== mitra's teef ===
+"mita's jaws of law"
+	referred to by "the toothbearer"
+	by mitra's bones- ""
+	have urges
+	+1 bite attack 1d4+1 silver/magical
+	detect evil 1/day (1d12 +11)
+	word of command 1/day (must be preceeded by "by mitra's bones")
+	speak with dead 1/week (auto-cast, result of 22-23)
