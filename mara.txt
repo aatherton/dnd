@@ -3,7 +3,7 @@ occupation: soldier
 class: Thief
 alignment: Law
 speed:30
-xp 127
+xp 129
 lvl 3
 
 AC 16
