@@ -3,7 +3,7 @@ occupation: soldier
 class: Thief
 alignment: Law
 speed:30
-xp 129
+xp 165
 lvl 3
 
 AC 16
@@ -32,7 +32,7 @@ DMG +2
 
 weapons
 +1 short sword 1d6+1
-2 daggers 1d4
+2 daggers 1d4/1d10 on sneak attacks
 shortbow 1d6
 
 armor
@@ -46,7 +46,7 @@ flint and steel
 3 oil flasks
 amulet of the adder (prevents from being poisoned) 
 potion of flying
-19 arrows
+18 arrows
 bone meal
 5 rations
 2 waterskins
@@ -54,6 +54,10 @@ bone meal
 50 ft rope
 smol hammer
 
+=== mitra's favor ===
+	intelligent item
+	wants to champion the faith of mitra
+	guardian spirit (protection from evil: DC14 constant up)
 
 special
 born under the loom: +LUCK to skill checks
@@ -64,7 +68,7 @@ thief talents
 
 backstab +5
 sneak +5
-hide +7 
+hide +7
 pickpocket +5
 climb +7
 lockpick +5
@@ -89,3 +93,8 @@ notes
 	speak with dead 1/week (auto-cast, result of 22-23)
 
 stopping on the way to mitra's fist
+
+be the voice
+defend those who can't
+listen before judgment
+follow the written law
