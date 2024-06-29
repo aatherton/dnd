@@ -39,7 +39,7 @@ armor
 +1 studded leather +4AC -2 check d8 fumble
 
 inventory
-104 GP
+100.4 GP
 
 thieves' tools
 flint and steel
@@ -98,3 +98,6 @@ be the voice
 defend those who can't
 listen before judgment
 follow the written law
+
+	why does nobody leave here?
+	"this place is cursed- all of us have it in common: we can't leave, can't age, can't give birth, can't die. when you're not settite, that tends to wear on you, unless you find a way to cope. cornelius got sent here before it went to shit, abandoned by his temple in a town full of settites, it wears on him, blocks things out, they keep him around as a joke"
