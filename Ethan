@@ -1,22 +1,67 @@
-=== 4 ===
+=== Ethan Lvl 1 Dwarf Mechanic ===
+
+HP:     9
+AC:     15      10+AGI+chainmail(4)+shield(1)
+
+Mojo    Fame    Wealth
+3       3       11
+
 STR     6       -1
 AGL     10      0
 STA     13      1
 PER     6       -1
 INT     4       -2
-LUCK    8       -1
+LUCK    9       0
 
-HP: 2
+REF     Fort    Will
+AGI+1   STA+1   PER+0
 
-18 september revenged of fury +luk melee damage
+Attack  crit    crittable
+0       1d8     II
 
-35- dwarven stonemason
-=== adventurer's pack D ===
-chainmail shirt +4AC    -2check d10 fumble      100gp
-shield          +1AC    -1check                 30GP
+luck die        action die
+d3              d22
+
+lucky sign:
+18      +luk melee damaged      September Revenged of the Furae
+Occupation
+35      Dwarven Stonemason
+Proficieny:
+short swords, daggers, slings, shortbows, hand crossbows, handaxes
+Luck and Wits:
+        recover +level/day of luck
+Slow:
+        20' speed
+Mojo:
+        2 for criticising trap makers after disarming a trap on the first attempt.
+        1 for every giant, troll or ogre the team defeats
+underground skills:
+        when underground:
+                +lvl to detect sloping passageways, secret doors with shifting walls, new construction
+        always know current depth
+Shunned:
+        -2d on social rolls vs dwarves
+        cannot have dwarven company/nobility sponsership
+languages:
+        Dwarf, English, Shale
+
+=== SKILLS ===
+
+Backstab                1
+Sneak Silently          1       AGI
+Hide in Shadows         1       AGI
+Climb Sheer Surfaces    1       AGI
+Pick Lock               3       AGI
+Find Trap               3       INT
+Disable Trap            3       AGI
+
+=== EQUIPMENT ===
+
+Chainmail Shirt         100gp   +4AC    -2 check        d10 fumble
+Shield                  30gp    +1AC    -1 check
+Bracers of Bling                +1AC    +1d3 on grandstand checks
 backpack
+health pot                      1d3HP
 3 spikes
-mallet
-handax          1D6     5gp     Hurl    10/20/30
-
-warhammer       1D8     70GP
+handax                  5gp     1D6     hurl    10/20/30
+warhammer               70GP    1D8
