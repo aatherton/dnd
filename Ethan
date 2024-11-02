@@ -1,67 +1,67 @@
 === Ethan Lvl 1 Dwarf Mechanic ===
 
-HP:     9
-AC:     15      10+AGI+chainmail(4)+shield(1)
+HP:	9
+AC:	16	10+AGI+chainmail(4)+shield(1)+bracers of bling(1)
 
-Mojo    Fame    Wealth
-3       3       11
+Mojo	Fame	Wealth
+3	3	11
 
-STR     6       -1
-AGL     10      0
-STA     13      1
-PER     6       -1
-INT     4       -2
-LUCK    9       0
+STR	6	-1
+AGL	10	0
+STA	13	1
+PER	6	-1
+INT	4	-2
+LUCK	9	0
 
-REF     Fort    Will
-AGI+1   STA+1   PER+0
+REF	Fort	Will
+AGI+1	STA+1	PER+0
 
-Attack  crit    crittable
-0       1d8     II
+Attack	crit	crittable
++0	1d8	II
 
-luck die        action die
-d3              d22
+luck die	action die
+d3		d20
 
 lucky sign:
-18      +luk melee damaged      September Revenged of the Furae
+18	+luk melee damage	September Revenged of the Furae
 Occupation
-35      Dwarven Stonemason
+35	Dwarven Stonemason
 Proficieny:
 short swords, daggers, slings, shortbows, hand crossbows, handaxes
 Luck and Wits:
-        recover +level/day of luck
+	recover +level/day of luck
 Slow:
-        20' speed
+	20' speed
 Mojo:
-        2 for criticising trap makers after disarming a trap on the first attempt.
-        1 for every giant, troll or ogre the team defeats
+	2 for criticising trap makers after disarming a trap on the first attempt.
+	1 for every giant, troll or ogre the team defeats
 underground skills:
-        when underground:
-                +lvl to detect sloping passageways, secret doors with shifting walls, new construction
-        always know current depth
+	when underground:
+		+lvl to detect sloping passageways, secret doors with shifting walls, new construction
+	always know current depth
 Shunned:
-        -2d on social rolls vs dwarves
-        cannot have dwarven company/nobility sponsership
+	-2d on social rolls vs dwarves
+	cannot have dwarven company/nobility sponsership
 languages:
-        Dwarf, English, Shale
+	Dwarf, English, Shale
 
 === SKILLS ===
 
-Backstab                1
-Sneak Silently          1       AGI
-Hide in Shadows         1       AGI
-Climb Sheer Surfaces    1       AGI
-Pick Lock               3       AGI
-Find Trap               3       INT
-Disable Trap            3       AGI
+Backstab		1
+Sneak Silently		1	AGI
+Hide in Shadows		1	AGI
+Climb Sheer Surfaces	1	AGI
+Pick Lock		3	AGI
+Find Trap		3	INT
+Disable Trap		3	AGI
 
 === EQUIPMENT ===
 
-Chainmail Shirt         100gp   +4AC    -2 check        d10 fumble
-Shield                  30gp    +1AC    -1 check
-Bracers of Bling                +1AC    +1d3 on grandstand checks
+Chainmail Shirt		100gp	+4AC	-2 check	d10 fumble
+Shield			30gp	+1AC	-1 check
+Bracers of Bling		+1AC	+1d3 on grandstand checks
 backpack
-health pot                      1d3HP
+health pot			1d3HP
 3 spikes
-handax                  5gp     1D6     hurl    10/20/30
-warhammer               70GP    1D8
+handax			5gp	1D6	hurl	10/20/30
+warhammer		70GP	1D8
