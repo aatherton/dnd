@@ -1,16 +1,17 @@
 === Ethan Lvl 1 Dwarf Mechanic ===
 
 HP:	9
-AC:	16	10+AGI+chainmail(4)+shield(1)+bracers of bling(1)
+AC:	13	10+AGI+armor(3)+shield(1)+bracers of bling(1)
 
-Mojo	Fame	Wealth
-3	3	11
+Mojo	Fame	Wealth	XP	GP
+3	3	11	14	720
+		100gp
 
 STR	6	-1
-AGL	10	0
+AGL	5	-2
 STA	13	1
 PER	6	-1
-INT	4	-2
+INT	10	0
 LUCK	9	0
 
 REF	Fort	Will
@@ -58,6 +59,7 @@ Disable Trap		3	AGI
 === EQUIPMENT ===
 
 Chainmail Shirt		100gp	+4AC	-2 check	d10 fumble
+light composite sport	30gp	+3AC	-1 check	d8 fumble
 Shield			30gp	+1AC	-1 check
 Bracers of Bling		+1AC	+1d3 on grandstand checks
 backpack
@@ -65,3 +67,9 @@ health pot			1d3HP
 3 spikes
 handax			5gp	1D6	hurl	10/20/30
 warhammer		70GP	1D8
+shortbow		55GP	1D6	Two-han	50/10/150
+7 arrow
+citizen spell phone	150GP
+theive's tools		30GP
+24 arrow		20GP
+zero-g quiver		50GP
