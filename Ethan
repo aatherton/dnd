@@ -4,7 +4,7 @@ HP:	9
 AC:	13	10+AGI+armor(3)+shield(1)+bracers of bling(1)
 
 Mojo	Fame	Wealth	XP	GP
-3	3	11	14	720
+2	6	12	18	720
 		100gp
 
 STR	6	-1
@@ -18,13 +18,13 @@ REF	Fort	Will
 AGI+1	STA+1	PER+0
 
 Attack	crit	crittable
-+0	1d8	II
+0	1d8	II
 
 luck die	action die
 d3		d20
 
 lucky sign:
-18	+luk melee damage	September Revenged of the Furae
+18	+luk melee damaged	September Revenged of the Furae
 Occupation
 35	Dwarven Stonemason
 Proficieny:
@@ -58,17 +58,15 @@ Disable Trap		3	AGI
 
 === EQUIPMENT ===
 
-Chainmail Shirt		100gp	+4AC	-2 check	d10 fumble
-light composite sport	30gp	+3AC	-1 check	d8 fumble
 Shield			30gp	+1AC	-1 check
 Bracers of Bling		+1AC	+1d3 on grandstand checks
 backpack
-health pot			1d3HP
 3 spikes
 handax			5gp	1D6	hurl	10/20/30
 warhammer		70GP	1D8
-shortbow		55GP	1D6	Two-han	50/10/150
-citizen spell phone	150GP
-theive's tools		30GP
-31 arrow
-zero-g quiver		50GP
+shortbow		55GP	1D6	Two-handed	50/10/150
+light compsite sport	30GP	+3AC	-1check		d8 fumble
+citizen cell phone	150GP
+tools			30GP
+29 arrow
+0g quiver		50GP
