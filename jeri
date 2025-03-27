@@ -21,14 +21,25 @@ CON	10	0
 CHA	9	0
 
 === EQUIPMENT ===
---- on person (50*STR):	750 ---
-GP	150
+--- weapons/armor ---
+shortbow	25	1d6	Missile (5’–50’ / 51’–100’ / 101’–150’), Two-handed
+arrows		5	20
+lance		5	1d6	Charge, Melee
 
-CURRENT WEIGHT:	150
+--- treasure (50*STR):	750 ---
+GP	1
+
+CURRENT WEIGHT:	1
 --- backpack:	400 ---
-UNOWNED
+self		5
+tinderbox	3
+torches		1	6
+=== raptor ===
+self	75
+saddle	25
+
 --- saddle bags:	300 ---
-UNOWNED
+self	5
 
 === SPECIAL RULES ===
 
