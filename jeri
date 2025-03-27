@@ -1,0 +1,51 @@
+jer'iqueal
+Neutral bnnuy ranger1
+
+maxHP		5
+damage	0
+
+ATK	D 	W 	P 	B 	S
+0		12	13	14	15	16
+
+=== AC	12 ===
+base	10
+DEX		2
+
+=== ABILITY SCORES ===
+
+STR	15	+1
+INT	11	0
+WIS	10	0
+DEX	16	+2
+CON	10	0
+CHA	9		0
+
+=== EQUIPMENT ===
+--- on person (50*STR):	750 ---
+GP	150
+
+CURRENT WEIGHT:	150
+--- backpack:	400 ---
+UNOWNED
+--- saddle bags:	300 ---
+UNOWNED
+
+=== SPECIAL RULES ===
+
+awareness								Rangers are only surprised on a roll of 1. This may mean that a ranger is able to act in the surprise round while their companions are surprised.
+Foraging and Hunting		A party with a ranger succeeds at foraging with a 2-in-6 chance and finds prey when hunting with a 5-in-6 chance
+Limited Possessions			A ranger may only keep wealth and possessions that can be kept on their person or mount. Excess must be donated to worthy causes (not other PCs!).
+Pursuit									When the ranger’s party pursues an opposing group in the wilderness, the chance if evasion is reduced by 10%.
+Stealth									In the wilderness, a ranger has a 3-in-6 chance of hiding and a 3-in-6 chance of moving silently.
+Tracking								Rangers can identify and follow tracks. 20%
+													may be modified by the following factors:
+													Soft/hard ground: +20% to –50%.
+													Size of group being tracked: +2% per creature beyond the first.
+													Passing through an area where other tracks mingle: –50%.
+													Age of tracks: –5% per 12 hours.
+													Rainfall: –25% per hour.
+													Efforts made to hide tracks: –25%.
+
+--- LANGUAGES ---
+neutral
+common
