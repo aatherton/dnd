@@ -1,5 +1,5 @@
 jer'iqueal
-Neutral bnnuy ranger1
+Neutral bnnuy ranger1 (vintner)
 
 maxHP	5
 damage	0
@@ -40,6 +40,7 @@ saddle	25
 
 --- saddle bags:	300 ---
 self	5
+icon	?
 
 === SPECIAL RULES ===
 
