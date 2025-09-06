@@ -10,6 +10,7 @@ duties:
 	prepare to die
 
 philosopher / gambler
+XP	183
 
 AC 11+armor(2)
 
@@ -20,7 +21,7 @@ INT	2
 WIS
 CHA
 
-4/4hp
+3/4hp
 
 10+con item slots
 
@@ -31,7 +32,7 @@ slot	item
 8	backpack right	staff
 7	left hip	card deck, dice, chalk
 6	backpack main	2 rations, 50ft rope
-5	right chest	59 green coin, two zuminati rings
+5	right chest	176 green coin, two zuminati rings, objectionist button
 4	worn		leather cuirass, leather greaves
 3	left chest	rapier	1d6 dmg
 2	backpack hidden	psychometry book
@@ -42,7 +43,7 @@ psychometry
 
 bend fate
 	roll int+1 d20 after this point, when any creature you can see makes a check, use and discard one of the rolled results
-	current rolls: 1	7	12
+	current rolls: 1	7
 
 zuminati rings
 	eye with z in the center (leader's)
@@ -59,10 +60,20 @@ zuminati research:
 	edith gloves.
 		connected to terzo?
 		disappeared sometime back. last seen in garden of wild beasts, quadling
+===
+zuminati report:
+	objectionists are talking to pinhead
+	talking to spice
+		getting tense
+		might infect pumperdink plaza
+			cause a riot during the rally???
+	trouble in munchkin mountains
 
 missing in wogglebug U.:
-	beaverbrook, aluminia, choktok, kegan, cicero, goosefoot, philbert, ramsey, gamol, bobbin, hornfels, ramiken
+	beaverbrook, aluminia, choktok, kegan, cicero, 
+		> misc. accidents
+	goosefoot, philbert, ramsey, gamble, bobbin, hornfels, ramiken
+		> professors of magic
 
 harz's route:
 	loonville -> pumperdink plaza -> black branches -> junction -> six suburbs: little utensia, toasting, the warren, fuddleville, fine fettle -> hyup
-
