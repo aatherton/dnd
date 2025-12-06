@@ -28,13 +28,13 @@ CHA
 slot	item
 
 10	backpack right	2 torches
-9	right hip	lantern	
-8	left hip	card deck, dice, chalk
-7	backpack main	2 rations, 50ft rope
-6	worn		leather cuirass, leather greaves
-5	back sheath	parrying dagger	counts-as buckler
-4	right chest	116 green coin, two zuminati rings, objectionist button
-3	left chest	rapier	1d6 dmg
+9	left hip	card deck, dice, chalk
+8	backpack main	2 rations, 50ft rope, lantern
+7	worn		leather cuirass, leather greaves
+6	back sheath	parrying dagger	counts-as buckler
+5	right hip	ax
+4	right chest	101 green coin, two zuminati rings, objectionist button
+3	left chest	rapier	dex
 2	backpack hidden	psychometry book
 1	backpack hidden	bend fate book
 
@@ -51,7 +51,6 @@ zuminati rings
 
 offloaded items:
 location	item
-
 
 === notes ===
 zuminati research:
@@ -82,6 +81,10 @@ magic research:
 	> nature preserve
 	> legend has it there is a giant a creature that swallowed some spellbooks
 	> > may be invisible
+
+unkown group A
+	> Dima
+	> green math signs
 
 harz's route:
 	loonville -> pumperdink plaza -> black branches -> junction -> six suburbs: little utensia, toasting, the warren, fuddleville, fine fettle -> hyup
